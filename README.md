@@ -1,3 +1,7 @@
+# Important!
+
+**This project was a learning exercise during my time at Thinkful and does not represent my own work and is not a good representation of my skills.  It's visible only because I forked this repo instead of cloning it and as such I cannot make it private.**
+
 # William Setstatespear
 
 This is a sample project used for education of React Router.
